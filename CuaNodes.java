@@ -13,7 +13,7 @@ public class CuaNodes
 		primer = null;
 		darrer = null;
 	}
-// commit 2
+
 	private boolean cuaBuida()
 	{
 		return (primer == null);
