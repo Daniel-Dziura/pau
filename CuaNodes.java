@@ -5,7 +5,7 @@ public class CuaNodes
 		String informacio;
 		Node seguent;
 	}
-
+//commit 2
 	private Node primer, darrer, recorrer, anterior;
 
 	public CuaNodes()
