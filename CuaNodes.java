@@ -5,7 +5,7 @@ public class CuaNodes
 		String informacio;
 		Node seguent;
 	}
-//nueva rama commit 1
+//nueva rama commit 2
 	private Node primer, darrer, recorrer, anterior;
 
 	public CuaNodes()
