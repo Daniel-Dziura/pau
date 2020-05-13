@@ -13,7 +13,7 @@ public class CuaNodes
 		primer = null;
 		darrer = null;
 	}
-
+//
 	private boolean cuaBuida()
 	{
 		return (primer == null);
